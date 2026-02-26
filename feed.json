@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://davemee.micro.blog/2026/02/26/you-know-you-can-say/",
+				
+				"content_html": "<p>You know you can say <em>my friend</em> rather than <em>a friend of mine</em></p>\n<p><!-- raw HTML omitted -->it&rsquo;s fewer words and less grammatically weird<!-- raw HTML omitted --> and looks more like you thought about what you were saying before you emitted it<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "You know you can say *my friend* rather than *a friend of mine*\n\n<small>it's fewer words and less grammatically weird<small> and looks more like you thought about what you were saying before you emitted it</small></small>\n",
+				"date_published": "2026-02-26T23:24:52+00:00",
+				"url": "https://micro.davemee.com/2026/02/26/you-know-you-can-say/"
+			},
+			{
+				"id": "http://davemee.micro.blog/2026/02/11/221033/",
+				
+				"content_html": "<p><a href=\"http://jtnimoy.net/\">jtnimoy.net</a> when I started my Masters programme in Media Arts, jtnimoy was already there, creating <a href=\"https://web.archive.org/web/20040729164116/http://www.jtnimoy.net/\">incredibly complex work code and packaging it up for Director schmucks</a> despite being younger than me, a lesson in humility. And though I never spoke to her, I followed her RSS feed, always curious about updates and news, migrating through accumulated RSS feeds in Windows clients, to OPML exports into Google Reader, then The Old Reader, and now back to dedicated local clients, I find JT had passed some years ago. Though I would always be a stranger to them, their RSS feed persisted, not marked out with a 404 marker in my reader. How sad to find a gambling company occupying their URLs, updating with LLM content. Desecration in digital spaces happens so rapidly, so perfectly, so effortlessly, so purposefully; even RSS endpoints are mimicked, preserved, inhabited for impersonation.</p>\n",
+				"content_text": "[jtnimoy.net](http://jtnimoy.net/) when I started my Masters programme in Media Arts, jtnimoy was already there, creating [incredibly complex work code and packaging it up for Director schmucks](https://web.archive.org/web/20040729164116/http://www.jtnimoy.net/) despite being younger than me, a lesson in humility. And though I never spoke to her, I followed her RSS feed, always curious about updates and news, migrating through accumulated RSS feeds in Windows clients, to OPML exports into Google Reader, then The Old Reader, and now back to dedicated local clients, I find JT had passed some years ago. Though I would always be a stranger to them, their RSS feed persisted, not marked out with a 404 marker in my reader. How sad to find a gambling company occupying their URLs, updating with LLM content. Desecration in digital spaces happens so rapidly, so perfectly, so effortlessly, so purposefully; even RSS endpoints are mimicked, preserved, inhabited for impersonation.\n",
+				"date_published": "2026-02-11T22:10:33+00:00",
+				"url": "https://micro.davemee.com/2026/02/11/221033/"
+			},
+			{
 				"id": "http://davemee.micro.blog/2026/02/11/jtnimoynet-when-i-started-my/",
 				
 				"content_html": "<p><a href=\"http://jtnimoy.net/\">jtnimoy.net</a> when I started my Masters programme in Media Arts, jtnimoy was already there, creating <a href=\"https://web.archive.org/web/20040729164116/http://www.jtnimoy.net/\">incredibly complex work code and packaging it up for Director schmucks</a> despite being younger than me, a lesson in humility. And though I never spoke to her, I followed her RSS feed, always curious about updates and news, migrating through accumulated RSS feeds in Windows clients, to OPML exports into Google Reader, then The Old Reader, and now back to dedicated local clients, I find JT had passed some years ago. Though I would always be a stranger to them, their RSS feed persisted, not marked out with a 404 marker in my reader. How sad to find a gambling company occupying their URLs, updating with LLM content. Desecration in digital spaces happens so rapidly, so perfectly, so effortlessly, so purposefully; even RSS endpoints are mimicked, preserved, inhabited for impersonation.</p>\n",
