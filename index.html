@@ -24,13 +24,35 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://micro.davemee.com/2026/04/01/is-claude-an-innie-or/">Is Claude an innie or an outie?</a></h1>
+		
+
+		<a href="https://micro.davemee.com/2026/04/01/is-claude-an-innie-or/" class="u-url"><time class="dt-published" datetime="2026-04-01 15:12:19 &#43;0100">Apr 1, 2026</time></a>
+
+		<div class="e-content">
+			 <blockquote>
+<h2 id="httpslr0orgblogpclaude-code-sourcegoodclaude-bughunter-and-other-internal-commands-goodclaude-bughunter-and-other-internal-commands"><a href="https://lr0.org/blog/p/claude-code-source//#goodclaude-bughunter-and-other-internal-commands">§</a> <code>goodClaude</code>, <code>bughunter</code> and other internal commands</h2>
+</blockquote>
+<blockquote>
+<p>The <a href="https://github.com/chatgptprojects/claude-code/blob/main/src/commands.ts">commands file</a> has a section of internal-only commands that are hidden in external builds: <a href="https://github.com/chatgptprojects/claude-code/blob/main/src/commands.ts#L228">bughunter</a>, <code>commitPushPr</code>, <code>ctx_viz</code>, <a href="https://github.com/chatgptprojects/claude-code/blob/main/src/commands.ts#L232">goodClaude</a> (which is disabled and hidden, we will never know what it did), <a href="https://github.com/chatgptprojects/claude-code/blob/main/src/commands.ts#L104-L105">ultraplan</a>, <code>ultrareview</code>, <a href="https://github.com/chatgptprojects/claude-code/blob/main/src/commands.ts#L246">teleport</a>, and <a href="https://github.com/chatgptprojects/claude-code/blob/main/src/commands.ts#L147">ant-trace</a>. These exist only in Anthropic&rsquo;s internal build.</p>
+</blockquote>
+<blockquote>
+<p>There&rsquo;s also a rich set of feature flags for experimental modes: <code>PROACTIVE</code> (autonomous agent), <code>KAIROS</code> (an assistant/brief mode), <code>COORDINATOR_MODE</code> (multi-agent orchestration where Claude spawns worker agents), <code>AGENT_TRIGGERS</code> (cron job scheduling for agents), <code>VOICE_MODE</code>, and <code>BUDDY</code> (the companion pets). The coordinator mode is particularly interesting because it <a href="https://github.com/chatgptprojects/claude-code/blob/main/src/coordinator/coordinatorMode.ts#L259">explicitly tells the orchestrating agent</a>: &ldquo;Never write &lsquo;based on your findings&rsquo; or &lsquo;based on the research.&rsquo; These phrases delegate understanding to the worker instead of doing it yourself.&rdquo; Whoever wrote that has seen too many LLM responses that start with &ldquo;Based on my findings…&rdquo;</p>
+</blockquote>
+<p>This is giving me such Lumen security room protocol vibes it&rsquo;s unbelievable. It makes us <em>all</em> innies, poking around exploring what <em>Anthropic</em> can do with Claude, and as such, to <em>us</em>.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://micro.davemee.com/2026/03/30/exodarkforestrylaoinisation/">exodarkforestrylaoinisation</a></h1>
 		
 
 		<a href="https://micro.davemee.com/2026/03/30/exodarkforestrylaoinisation/" class="u-url"><time class="dt-published" datetime="2026-03-30 10:11:22 &#43;0100">Mar 30, 2026</time></a>
 
 		<div class="e-content">
-			 <p>One of those days I sift through what&rsquo;s on hacker news and <a href="https://ryelang.org/blog/posts/cognitive-dark-forest/">find there&rsquo;s something I don&rsquo;t find too objectionable</a>, in that it faintly affirms something I&rsquo;ve <a href="http://davemee.com/research/spidergan.html">said years ago</a> - that the biggest impact of AI isn&rsquo;t so much <em>what it can do</em>, but how it will change and reframe how we think about the medium and ecosystem in which we operate online, and how we consider it a space in which to operate (as much as the nature of the work we put there). It does a better job of tying this to a kind of exocapitalism than I had considered, but what with Trump 2 and the venal thieves on the up and up, it&rsquo;s an inevitable reading.</p>
+			 <p>One of those days I sift through <a href="https://news.ycombinator.com/item?id=47566442">what&rsquo;s on hacker news</a> and <a href="https://ryelang.org/blog/posts/cognitive-dark-forest/">find there&rsquo;s something I don&rsquo;t find too objectionable</a>, in that it faintly affirms something I&rsquo;ve <a href="http://davemee.com/research/spidergan.html">said years ago</a> - that the biggest impact of AI isn&rsquo;t so much <em>what it can do</em>, but how it will change and reframe how we think about the medium and ecosystem in which we operate online, and how we consider it a space in which to operate (as much as the nature of the work we put there). It does a better job of tying this to a kind of exocapitalism than I had considered, but what with Trump 2 and the venal thieves on the up and up, it&rsquo;s an inevitable reading.</p>
 
 		</div>
 	  </div>
